@@ -9,3 +9,6 @@ print("Tell her world")
 print("Tell my world")
 print("Tell after merged to master")
 print("create hotfix branch again")
+
+print("test git diff")
+print("test git diff --cached")
