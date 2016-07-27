@@ -1,2 +1,3 @@
 test 'git rm'
 modified after commit
+modified after rebase by the master branch
