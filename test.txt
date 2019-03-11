@@ -1,5 +1,5 @@
 test 'git rm'
 modified after commit
 modified after rebase by the master branch
-
 modified by castlim
+added by ccslab 190311-10:14
