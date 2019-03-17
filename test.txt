@@ -6,3 +6,6 @@ added by ccslab 190311-10:14
 added by ccslab 190312 22:15
 
 added by master 190317
+
+trailing space test   
+added by cherry_test
